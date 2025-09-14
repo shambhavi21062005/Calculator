@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+.text-center{
+align-items: center;
+text-align: center;
+text-decoration: underline;
+text-decoration-color: rgb(39, 42, 199);
+  font-weight: 900;
+  color: blue;
+font: 600;  
+
+}
+.bg-red
+{
+background: rgb(17, 9, 61);
+}
+.mx-auto
+{
+    margin:auto;
+}
+
+.flex{
+display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center
+{
+    align-items: center;
+}
